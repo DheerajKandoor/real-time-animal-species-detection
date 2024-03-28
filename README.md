@@ -99,4 +99,4 @@ The performance of the model is evaluated by metrics such as Precision, Recal, a
 
 The trained model has been deployed on Hugging Face for practical use.
 
-- you can access the deployed [web app](https://huggingface.co/spaces/ldebele/animal_detection_app)
+- you can access the deployed [web app](https://real-time-animal-species-detection.onrender.com/)
